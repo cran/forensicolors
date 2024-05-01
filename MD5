@@ -1,0 +1,12 @@
+8c41fba273943684203016a0259a638f *DESCRIPTION
+e53cf6a08aad2a5dd43fd6edece72f6f *NAMESPACE
+a0c7830bac8a2536524e080bfee88f1f *R/compute_LRs.R
+b93cc12c1b620d1f15ac721efa5e0aff *R/conditionedProp.R
+40221096bf0d544a5cbc6cf5b067001d *R/plotLRs.R
+c70015213432a04da52fbfc64f24ae5d *R/refProp.R
+915860b73fb88dd294cc9aa4a52d0764 *R/simRef.R
+eeb4b549116e5601223ae361823fbf65 *man/compute_LRs.Rd
+dc3290e97c4ea3c7b6ad3e6bd02964e9 *man/conditionedProp.Rd
+eec0081ecd451be634da6ef7c5566063 *man/plotLR.Rd
+50d807bccfc32654fcad981e8e16fe67 *man/refProp.Rd
+f84c8000f13a32f53051620b02123d1e *man/simRef.Rd
